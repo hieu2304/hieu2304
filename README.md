@@ -29,7 +29,7 @@
 - Exploring distributed systems and event-driven architecture
 
 ### 🧠 Currently Learning
-- Cloud-native patterns and microservices design
+- Cloud-native patterns
 - Kubernetes and scalable infrastructure
 
 ### 🛠 Strengths
