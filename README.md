@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi there 👋 I'm David
 
-<!--
-**hieu2304/hieu2304** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 I'm a passionate full-stack developer with a focus on building robust and scalable applications.
 
-Here are some ideas to get you started:
+### 💼 Tech Stack
+- **Languages**: TypeScript, Go, JavaScript
+- **Frontend**: React, Next.js, TailwindCSS, Shadcn, AntD, MUI
+- **Backend**: Node.js, Express/Nest.js, Go (Gin/Fiber), PostgreSQL, MongoDB
+- **DevOps**: Docker, GitHub Actions, Vercel, GCP, K8s, Grafana
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I'm Working On
+- Building a high-performance healthcare platform using Go + React
+- Exploring distributed systems and event-driven architecture
+
+### 🧠 Currently Learning
+- Cloud-native patterns and microservices design
+- Kubernetes and scalable infrastructure
+
+### 🛠 Strengths
+- Solid problem-solving skills and clean architecture mindset
+- Proactive communicator and a fast learner
+- Love turning complex problems into simple, elegant solutions
